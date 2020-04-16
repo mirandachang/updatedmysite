@@ -1,0 +1,13 @@
+body {text-align: center;
+    background-color: #efdde0}
+
+h1 {color: indigo;
+    text-shadow: 1px 1px 1px yellow;}
+
+h3.about {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+p.name {color: orange}
+p.pgh {color: blue; text-align: center}
+p.covid {color: red}
+p.italics {font-size: 25px; text-decoration: underline;}
+p.sideways {text-decoration: underline}
