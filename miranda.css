@@ -1,7 +1,7 @@
 body {text-align: center;
     background-color: #efdde0}
 
-div.jumbotron {background-color: lightblue}
+div.jumbotron-fluid {background-color: lightblue}
 
 h1 {color: indigo;
     text-shadow: 1px 1px 1px yellow;}
